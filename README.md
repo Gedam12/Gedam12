@@ -89,6 +89,6 @@ I like going beyond *how to use a technology* and understanding **why systems be
 
 ### 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/sayali-gedam) • [Email Me](sayaligedam12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sayali-gedam) • [Email Me](mailto:sayaligedam12@gmail.com)
 
 </div>
